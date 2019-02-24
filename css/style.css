@@ -1726,9 +1726,9 @@ a.logo-w3ls {
     height: 65px;
 }
 a.logo-w3ls h1 {
-    font-size: 30px;
-    letter-spacing: 18px;
-    margin: 16px 0 0 17px;
+    font-size: 20px;
+    letter-spacing: 0px;
+    margin: 16px 0 0 0;
 }
 .logo-agileits {
     top: 47%;
